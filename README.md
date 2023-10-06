@@ -1,3 +1,8 @@
+#https://www.microsoft.com/en-us/research/blog/autogen-enabling-next-generation-large-language-model-applications/
+
+#https://microsoft.github.io/autogen/docs/Examples/AutoGen-AgentChat/
+
+
 
 [![PyPI version](https://badge.fury.io/py/pyautogen.svg)](https://badge.fury.io/py/pyautogen)
 [![Build](https://github.com/microsoft/autogen/actions/workflows/python-package.yml/badge.svg)](https://github.com/microsoft/autogen/actions/workflows/python-package.yml)
